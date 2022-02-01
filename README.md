@@ -1,4 +1,4 @@
-![Cover photo](cover.png)
+![Cover photo](cover_v2.png)
 
 There's always something new to learn each day.
 
